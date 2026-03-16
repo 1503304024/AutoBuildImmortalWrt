@@ -59,6 +59,11 @@ PACKAGES="$PACKAGES xray-core hysteria luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+PACKAGES="$PACKAGES luci-app-smartdns luci-i18n-smartdns-zh-cn"
+PACKAGES="$PACKAGES luci-app-sqm luci-i18n-sqm-zh-cn"
+PACKAGES="$PACKAGES luci-app-frpc luci-i18n-frpc-zh-cn"
+PACKAGES="$PACKAGES luci-app-acl luci-i18n-acl-zh-cn"
+PACKAGES="$PACKAGES luci-app-eqos luci-i18n-eqos-zh-cn"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
